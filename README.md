@@ -63,7 +63,6 @@ Run this once a week or when your system feels slow.
 
 2. Right-click the file → **Run as Administrator**
 
-3. *(Optional)* Download [`EmptyStandbyList.exe`](https://wj32.org/wp/software/empty-standby-list/) and place it in the same folder to enable RAM clearing.
 
 ---
 
@@ -75,4 +74,7 @@ Run this once a week or when your system feels slow.
 
 ---
 
-Stay fast 🖥️💨
+Stay fast 
+Rouge
+
+
